@@ -1,5 +1,5 @@
-# xier-Plugin
-xier-Plugin是一个Yunzai-Bot的插件
+# Xier-Plugin
+Xier-Plugin是一个Yunzai-Bot的插件
 仅用于自我学习其他优秀插件
 
 ## 功能
